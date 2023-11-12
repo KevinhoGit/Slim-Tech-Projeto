@@ -1,0 +1,14 @@
+div.slider
+{
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+.slider-content
+{
+    width: 400%;
+    height: auto;
+    display: flex;
+}
